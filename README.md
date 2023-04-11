@@ -22,5 +22,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sweetloveinyourheart&show_icons=true&locale=en" alt="sweetloveinyourheart" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sweetloveinyourheart&" alt="sweetloveinyourheart" /></p>
-
