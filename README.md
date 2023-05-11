@@ -21,7 +21,7 @@ These are some of the major technologies that I use or have worked on in the pas
 **Infrastructure**
 
 <img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">
-|--|--|--|--|--|
+|--|--|--|
 
 **Databases**
 
@@ -31,10 +31,10 @@ These are some of the major technologies that I use or have worked on in the pas
 **Tools**
 
 <img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
-|--|--|--|--|--|--|--|
+|--|--|--|--|--|
 <br>
 
 ## Some of my stats :bar_chart:
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sweetloveinyourheart&show_icons=true&theme=radical&include_all_commits=true">
-|--|--|--|
+|--|--|
