@@ -9,7 +9,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Programming Languages**
 
-<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">|<img title="Swift" alt="Swift" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/swift/swift.png" />|<img title="C#" alt="C#" width="40px" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png">|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png">
+<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />|<img title="C#" alt="C#" width="40px" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png">|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png">
 |--|--|--|--|--|
 
 **Libraries and Frameworks**
