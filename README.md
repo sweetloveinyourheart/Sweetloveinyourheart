@@ -56,10 +56,14 @@
       </a>
       <br>Ubuntu
     </td>
+     <td align="center"  width="96">
+      <a href="#sw-tech">
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" width="48" height="48" alt="AWS" />
+      </a>
+      <br>AWS
+    </td>
   </tr>
 </table>
-
-<h2 align="left">Coding Activity</h2>
 
 <!-- links -->
 
