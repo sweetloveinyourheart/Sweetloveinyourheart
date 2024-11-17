@@ -58,9 +58,9 @@
     </td>
      <td align="center"  width="96">
       <a href="#sw-tech">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" width="48" height="48" alt="AWS" />
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png" width="48" height="48" alt="Azure" />
       </a>
-      <br>AWS
+      <br>Azure
     </td>
   </tr>
 </table>
